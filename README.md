@@ -55,7 +55,7 @@ Hello, World!
 ["1", "2", "3"]
 ```
 
-## Iterating
+### Iterating
 
 >to iterate over a range or array, use "for variable in range ... end"
 
