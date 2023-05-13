@@ -7,7 +7,7 @@
 
 ## Installation
 
->Make suere [Ruby](https://www.ruby-lang.org/en/) is installed.
+>Make sure [Ruby](https://www.ruby-lang.org/en/) is installed.
 
 > Clone this repository.
 ```bash
