@@ -96,7 +96,7 @@ end
 >Using acss to apply a color scheme to many elements
 
 ```css
-colors = background: #FFF; color: #000; border-color: #000;
+colors = "background: #FFF; color: #000; border-color: #000;"
 
 p {
     !colors
