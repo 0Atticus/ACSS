@@ -15,7 +15,7 @@ git clone https://github.com/0Atticus/acss
 
 ```
 
->Then run this command to set up the acss function:
+>Then add this to your ~/.bashrc to set up the acss function:
 ```bash
 acss(){ bash ~/acss/acss.sh $1 $2 $3; }
 ```
